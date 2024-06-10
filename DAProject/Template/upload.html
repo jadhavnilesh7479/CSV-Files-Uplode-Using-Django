@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+    
+    <body>
+
+        <br>
+        <br>
+
+        <div class="text-center">
+
+            <h3>Welcome To My Data Analysis Project </h3>
+
+            <br>
+
+            <h5> Kindly Upload CSV file Below for Data Analysis </h5>
+
+            <hr>
+            <br>
+
+            <form method="post" enctype="multipart/form-data">
+                {% csrf_token %}
+                {{ form.as_p }}
+
+            <button class="btn btn-primary" type="submit"> Upload &nbsp; <i class="fa fa-upload" aria-hidden="true"></i> </button>
+    
+
+            </form>
+
+        </div>
+
+    </body>        
+
+
+{% endblock %}

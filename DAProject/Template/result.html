@@ -1,0 +1,31 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+    
+    <body>
+
+        <br>
+        <br>
+
+        <div class="text-center">
+
+            <h2>Data Analysis Results</h2>
+                <h3>First Few Rows:</h3>
+                <div>{{ head|safe }}</div>
+                <br>
+
+                <h3>Summary Statistics:</h3>
+            <div>{{ summary_stats|safe }}</div>
+
+            <br>
+            
+            <h3>Histogram:</h3>
+            <img src="data:image/png;base64,{{ image_base64 }}" alt="Histogram">
+
+        </div>
+
+    </body>        
+
+
+{% endblock %}
