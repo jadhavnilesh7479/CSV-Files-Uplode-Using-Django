@@ -1,19 +1,29 @@
 # CSV-Files-Uplode-Using-Django:
 
-** Without Creating Virtual Envirenment Run this priject: **
+** Without Creating Virtual Environment Run this priject: **
 
-Step  : - Open Command Prompt.
+Step  :  - Open Command Prompt.
          - Go to the Project Path 
          - Run the Project Using ** python manage.py runserver **  command.
          - Copy the IP Address * http://127.0.0.1:8000/ * and paste in google search bar.
          - after that choose the csv file and uplode it.
-         
-         
-         
 
-Step 2:  
+                         ** OR **
 
-Project Explanation for Django CSV Analysis Project:
+** With Creating Virtual Environment Run this priject: **
+
+Step :   - Open Command Prompt.
+         - Go to the Project Path 
+         - Create Virtual Environment Using ** Python -m venev vr_name.
+         - Activate the Virtual Environment Using  ** Scripts\activate ** 
+         - Create Project Using ** django-admin startproject pro_name ** 
+         - Create App Using ** python manage.py startapp app_name ** 
+         - Run server using ** python manage.py runserver **
+         - Copy the IP Address * http://127.0.0.1:8000/ * and paste in google search bar.
+          - after that choose the csv file and uplode it.
+
+
+*  Project Explanation for Django CSV Analysis Project:
 
 This project is a Django-based web application that allows users to upload CSV files, perform data analysis using pandas and numpy, and display the results and visualizations on a web interface. Here's a step-by-step explanation:
 
