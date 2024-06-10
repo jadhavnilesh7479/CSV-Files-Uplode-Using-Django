@@ -1,7 +1,7 @@
 # CSV-Files-Uplode-Using-Django:
 
 ** Without Creating Virtual Environment Run this priject: **
-Steps  :
+* Follw the Steps  :
          - Open Command Prompt.
          - Go to the Project Path 
          - Run the Project Using ** python manage.py runserver **  command.
@@ -13,7 +13,7 @@ Steps  :
                          
 
 ** With Creating Virtual Environment Run this priject: **
-Steps :  
+* Follw the Steps :  
          - Open Command Prompt.
          - Go to the Project Path 
          - Create Virtual Environment Using ** Python -m venev vr_name.
