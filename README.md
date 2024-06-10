@@ -1,8 +1,8 @@
 # CSV-Files-Uplode-Using-Django:
 
 ** Without Creating Virtual Environment Run this priject: **
-
-Step  :  - Open Command Prompt.
+Steps  :
+         - Open Command Prompt.
          - Go to the Project Path 
          - Run the Project Using ** python manage.py runserver **  command.
          - Copy the IP Address * http://127.0.0.1:8000/ * and paste in google search bar.
@@ -13,8 +13,8 @@ Step  :  - Open Command Prompt.
                          
 
 ** With Creating Virtual Environment Run this priject: **
-
-Step :   - Open Command Prompt.
+Steps :  
+         - Open Command Prompt.
          - Go to the Project Path 
          - Create Virtual Environment Using ** Python -m venev vr_name.
          - Activate the Virtual Environment Using  ** Scripts\activate ** 
