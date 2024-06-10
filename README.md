@@ -9,7 +9,8 @@ Step  :  - Open Command Prompt.
          - after that choose the csv file and uplode it.
 
                            ** Copy the URL path and run the project ** 
-                         ** OR **
+                                             
+                         
 
 ** With Creating Virtual Environment Run this priject: **
 
