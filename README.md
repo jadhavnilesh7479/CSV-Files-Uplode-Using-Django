@@ -8,7 +8,7 @@
          - Copy the IP Address * http://127.0.0.1:8000/ * and paste in google search bar.
          - after that choose the csv file and uplode it.
 
-                           ** Copy the URL path and run the project ** 
+                           ** OR **
                                              
                          
 
