@@ -1,6 +1,6 @@
 # CSV-Files-Uplode-Using-Django:
 
-** Without Creating Virtual Environment Run this priject: **
+** Without Creating Virtual Environment Run this Project: **
 * Follw the Steps  :
          - Open Command Prompt.
          - Go to the Project Path 
@@ -9,10 +9,9 @@
          - after that choose the csv file and uplode it.
 
                                                       ** OR **
-                                             
-                         
+                                                             
 
-** With Creating Virtual Environment Run this priject: **
+** With Creating Virtual Environment Run this Project: **
 * Follw the Steps :  
          - Open Command Prompt.
          - Go to the Project Path 
